@@ -1,4 +1,5 @@
 # jyoti-demo1
 
-this is my 3 git repo author jyoti
+this is my 3 git repository
 <br>
+Author- jyoti kumari
